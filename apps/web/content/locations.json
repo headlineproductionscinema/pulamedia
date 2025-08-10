@@ -1,0 +1,35 @@
+[
+  {
+    "id": "fairgrounds",
+    "name": "Fairgrounds Mall Puma Fuel Station",
+    "coordinates": [-24.671, 25.922],
+    "image": "/images/billboard-fairgrounds.jpg",
+    "stats": {
+      "Daily Vehicles": "750-900",
+      "Screen Size": "2.88m x 1.6m",
+      "Key Audience": "Fairgrounds Mall shoppers, ABSA ATM users"
+    }
+  },
+  {
+    "id": "phakalane",
+    "name": "Phakalane Puma Fuel Station",
+    "coordinates": [-24.592, 25.955],
+    "image": "/images/billboard-phakalane.jpg",
+    "stats": {
+      "Daily Vehicles": "800-1000",
+      "Screen Size": "2.88m x 1.6m",
+      "Key Audience": "Phakalane Circle traffic, Green Park shoppers"
+    }
+  },
+  {
+    "id": "mahalapye",
+    "name": "Mahalapye Puma Fuel Station",
+    "coordinates": [-23.100, 26.811],
+    "image": "/images/billboard-mahalapye.jpg",
+    "stats": {
+      "Daily Vehicles": "650-850",
+      "Screen Size": "2.88m x 1.6m",
+      "Key Audience": "Watershed Mall patrons (Nandos, Chicken Licken)"
+    }
+  }
+]
